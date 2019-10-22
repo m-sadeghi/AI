@@ -9,7 +9,7 @@ import wx
 app = wx.App()
 start_time = now()
 
-window = wx.Frame(None, title="AI path finder by ma.sadeqy@gmail.com", size=(800, 400))
+window = wx.Frame(None, title="AI path finder by mdali.sadeghi@gmail.com", size=(800, 400))
 panel = wx.Panel(window)
 labelFont = wx.Font(16, wx.DECORATIVE, wx.NORMAL, wx.NORMAL)
 textFont = wx.Font(14, wx.SCRIPT , wx.NORMAL, wx.NORMAL)
